@@ -1,10 +1,12 @@
 # Calculo IMC
-Este projeto calcula o IMC (Õndice de massa corporal)
+Este projeto calcula o IMC (√çndice de massa corporal)
 
-O Ìndice de massa corporal È uma medida internacional usada para calcular se uma pessoa est· no peso ideal.
+O √≠ndice de massa corporal √© uma medida internacional usada para calcular se uma pessoa est√° no peso ideal.
 
 
-![Alt text](./<master>/app/screenshots/tela_inicial.png?raw=true "Calculadora IMC")
+<img src="/oliveirascof/AppIMC/app/screenshots/tela_inicial.jpg" width="200" height="400" style="max-width: 100%;">
 
-ApÛs a instalaÁ„o e inÌcio, inserir o peso e altura.
-Clicar em calcular e ser· mostrado o resultado.
+Ap√≥s a instala√ß√£o e in√≠cio, inserir o peso e altura.
+Clicar em calcular e ser√° mostrado o resultado.
+
+
